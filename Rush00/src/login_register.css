@@ -1,0 +1,176 @@
+.create_account
+{
+	margin: 0 auto;
+	font-size: 25px;
+	width: 620px;
+	height: 400px;
+	background-color: #909090;
+	position:relative;
+	border-radius: 15px;
+	box-shadow: 10px 10px 10px green;
+}
+
+.login_div
+{
+	position:relative;
+	padding-top: 10px;
+	margin: 0 auto;
+	background-color: #909090;
+	font-size: 25px;
+	width: 400px;
+	height: 350px;
+	border-radius: 15px;
+	box-shadow: 10px 10px 10px green;
+	text-align: center;
+}
+
+.textbox
+{
+	border-radius: 15px;
+	box-shadow: 5px 5px 5px green;
+	position:relative;
+	margin-top:30px;
+	width: 300px;
+	height: 30px;
+}
+
+.boxtext
+{
+	border-radius: 15px;
+	box-shadow: 5px 5px 5px green;
+	position:relative;
+	margin-top:0px;
+	width: 300px;
+	height: 30px;
+}
+
+#text_settings
+{
+	padding-top: 6px;
+}
+
+#cree
+{
+	position:absolute;
+	left:60px;
+	top:400px;
+	font-size: 35px;
+	color:white;
+}
+
+#log_fail
+{
+	margin-top: 100px;
+	margin-left:10px;
+	font-size: 35px;
+	color:white;
+}
+
+.header
+{
+	margin: 0 auto;
+	position:relative;
+	width:1300px;
+	height:300px;
+}
+
+.title
+{
+	position:absolute;
+	width: 800px;
+	height: 200px;
+	margin-top: 30px;
+	float:left;
+}
+
+
+body
+{
+	background-image: url("../resources/background.png");
+}
+
+#h_1
+{
+	position:absolute;
+	padding-left:90px;
+	top:-10px;
+	text-shadow: 5px 5px 5px green;
+}
+
+#h_2
+{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-shadow: 5px 5px 5px green;
+}
+
+.text
+{
+	text-align: left;
+	padding-left: 30px;
+	position:absolute;
+	top:80px;
+	width: 280px;
+	height: 300px;
+
+}
+
+.textbox_div
+{
+	position:absolute;
+	left:290px;
+	top: 80px;
+	width: 320px;
+	height: 300px;
+}
+
+.button1
+{
+	font-size: 50px;
+	position: absolute;
+	top:350px;
+	left:220px;
+	width: 150px;
+	height: 200px;
+}
+
+.button2
+{
+	font-size: 50px;
+	position: absolute;
+	top:320px;
+	left:220px;
+	width: 150px;
+	height: 200px;
+}
+
+.leftofhead
+{
+	width: 200px;
+	height: 800px;
+	position:absolute;
+	right:0;
+}
+
+.panier
+{
+	width: 150px;
+	height: 130px;
+	margin-top: 60px;
+	margin-left: 25px;
+	margin-bottom: 20px;
+	background-color: lightgreen;
+	border-radius: 15px;
+}
+
+.login
+{
+	height: 40px;
+	width: 150px;
+}
+
+.register
+{
+	height: 40px;
+	width:200px;
+}

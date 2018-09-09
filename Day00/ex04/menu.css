@@ -1,0 +1,57 @@
+#sncf
+{
+	margin-top:40px;
+	text-align: center;
+}
+
+#menuderoulant
+{
+	text-align: center;
+
+}
+
+.menu
+{
+	border-radius: 10px;
+	text-align: center;
+	display: inline-block;
+	margin-right: 30px;
+}
+
+.liste
+{
+	position:absolute;
+	top:-999em;
+}
+
+p
+{
+	color:white;
+	margin-top: 6px;
+	margin-bottom: 6px;
+}
+
+.liste li:hover div
+{
+	display:block;
+}
+
+.double
+{
+
+	font-size: 12px;
+	display:none;
+	margin-top : 1px;
+	margin-bottom: 1px;
+}
+
+li
+{
+	list-style-type: none;
+}
+
+li:hover ul
+{
+	top: auto;
+}
+

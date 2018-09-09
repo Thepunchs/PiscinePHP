@@ -1,0 +1,260 @@
+p
+{
+	font-size: 20px;
+	font-family: arial;
+	margin-left:15px;
+	margin-bottom: 1px;
+}
+
+.block1
+{
+	top:15px;
+	border-radius :  15px;
+	box-shadow: 10px 10px 10px black;
+	background-color:#909090;
+	position: relative;
+	height: 150px;
+	width: 1700px;
+	margin: auto;
+
+}
+
+.block2
+{
+
+	border-radius :  15px;
+	box-shadow: 10px 10px 10px black;
+	background-color:#909090;
+	position: absolute;
+	height: 600px;
+	width: 160px;
+	margin: left;
+}
+
+.block3
+{
+	
+	border-radius :  15px;
+	box-shadow: 10px 10px 10px black;
+	background-color:#909090;
+	position:relative;
+	height: 800px;
+	width: 1230px;
+	margin: auto;
+	
+}
+
+.block4
+{
+
+	border-radius :  15px;
+	box-shadow: 10px 10px 10px black;
+	background-color:#909090;
+	position: relative;
+	height: 600px;
+	width: 160px;
+	bottom:800px;
+	left: 1440px;
+}
+
+.greenblock
+{
+	position:relative;
+	background-color: #8bfc8d;
+	border-radius: 15px;
+	box-shadow: 10px 10px 10px black;
+	bottom: 710px;
+	right: 85px;
+	width:600px;
+	height: 200px;
+}
+
+#entrez
+{
+	font-size: 42px;
+	font-family: none;
+}
+
+#textbox
+{
+	margin-left:15px;
+	width: 470px;
+}
+
+#button
+{
+
+}
+
+#chaise
+{
+	position:relative;
+	width: 60px;
+	height: 140px;
+	bottom:200px;
+	top:480px;
+	left:420px;
+}
+
+#ecran
+{
+	position:relative;
+	width: 220px;
+	height: 150px;
+	bottom:200px;
+	top:320px;
+	left:963px;
+}
+
+#ordinateurs
+{
+	text-shadow: 5px 5px 10px red;
+}
+
+#big_block
+{
+	position:relative;
+	height: 800px;
+	width: 1600px;
+	margin: auto;
+	margin-top:35px;
+}
+
+#dayofthe42
+{
+	margin-left: 30px;
+	width: 30%;
+	height: 85%;
+	margin-top: 5px;
+}
+
+#loupe
+{
+	position:absolute;
+	right:25px;
+	top:30px;
+}
+
+#close
+{
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	right: 10px;
+	bottom: 10px;
+}
+
+#reload
+{
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	right: 10px;
+	top: 10px;
+}
+
+#arrow
+{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	top: 10px;
+	left:30px;
+}
+
+#main
+{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	top: 120px;
+	left:30px;
+}
+
+#oeil
+{
+	position: absolute;
+	border: 6px solid red;
+	width: 100px;
+	height: 100px;
+	top: 230px;
+	left:30px;
+}
+
+#outil
+{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	top: 345px;
+	left:30px;
+}
+
+#chat
+{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	top: 460px;
+	left:30px;
+}
+
+#book
+{
+	position: absolute;
+	width: 75px;
+	height: 100px;
+	top: 20px;
+	left:45px;
+}
+
+#towel
+{
+	position: absolute;
+	width: 100px;
+	height: 80px;
+	top: 130px;
+	left:30px;
+}
+
+#brick1
+{
+	position: absolute;
+	background-image: url('resources/brick.jpg');
+	background-repeat: repeat-x;
+	width: 140px;
+	height: 32px;
+	top: 220px;
+	left:10px;
+}
+
+#brick2
+{
+	position: absolute;
+	background-image: url('resources/brick.jpg');
+	background-repeat: repeat-x;
+	width: 140px;
+	height: 40px;
+	top: 252px;
+	left:10px;
+}
+
+#brick3
+{
+	position: absolute;
+	background-image: url('resources/brick.jpg');
+	background-repeat: repeat-x;
+	width: 140px;
+	height: 8px;
+	top: 284px;
+	left:10px;
+}
+
+#cluster
+{
+	position: absolute;
+	left: 10px;
+	top: 10px;
+	width: 98%;
+	height: 98%;
+}

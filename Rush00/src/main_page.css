@@ -1,0 +1,315 @@
+h4
+{
+	color:white;
+	margin-left:30px;
+}
+body
+{
+   background-image: url("../resources/background.png");
+}
+
+.header
+{
+	margin: 0 auto;
+	position:relative;
+	width:1300px;
+	height:300px;
+}
+
+.title
+{
+	position:absolute;
+	width: 800px;
+	height: 200px;
+	margin-top: 30px;
+	float:left;
+}
+
+.leftofhead
+{
+	width: 300px;
+	height: 400px;
+	position:absolute;
+	right:0;
+	border-radius: 50px;
+}
+
+.panier
+{
+	width: 150px;
+	height: 130px;
+	margin-top: 60px;
+	margin-left: 25px;
+	margin-bottom: 20px;
+	background-color: lightgreen;
+	border-radius: 15px;
+}
+
+.login
+{
+	height: 40px;
+	width: 150px;
+}
+
+#cree
+{
+	position: absolute;
+	top:300px;
+	left:500px;
+	font-size : 40px;
+	color:white;
+}
+
+#accueil
+{
+	position:relative;
+	color:white;
+	left:30px;
+}
+
+#session_login
+{
+	font-family: "Courier";
+	font-size: 30px;
+	color:white;
+}
+
+.logout
+{
+	height: 50px;
+	width:150px;
+	padding-left: 20px;
+}
+
+
+.register
+{
+	height: 40px;
+	width:200px;
+}
+
+.products
+{
+	position:relative;
+	margin: 0 auto;
+	margin-top:100px;
+	height:800px;
+	width:1000px;
+	border-radius: 10px;
+	background-color: #8f8f8f;
+	box-shadow: 10px 10px 10px #000000;
+	overflow-y: auto;
+}
+
+.basket_products
+{
+	position:relative;
+	margin-left: 50px;
+	margin-top:100px;
+	height:800px;
+	width:375px;
+	border-radius: 10px;
+	background-color: #8f8f8f;
+	box-shadow: 10px 10px 10px #000000;
+	overflow-y: auto;
+}
+
+.basketadd
+{
+   display: inline-block;
+   	position:absolute;
+	top: 240px;
+	left: 28px;
+	float:right;
+	width: 90px;
+	height: 15px;
+}
+
+.baskettextbar
+{
+	border-radius: 15px;
+	width: 40px;
+	height: 15px;
+}
+
+.item
+{
+    display: inline-block;
+	margin-top: 50px;
+	margin-left: 60px;
+	position:relative;
+	background-color: darkgreen;
+	height:275px;
+	width:250px;
+	border-radius: 50px;
+}
+
+.bud
+{
+	position:relative;
+	margin: 10px;
+	border-radius: 100px;
+	height: 140px;
+	width: 230px;
+}
+
+.text
+{
+	position: absolute;
+	width: 220px;
+	right:0px;
+}
+
+.totalbox
+{
+	position:absolute;
+	left: 700px;
+	top: 500px;
+	background:lightgrey;
+	width:600px;
+	height: 200px;
+	border-radius: 10px;
+	box-shadow: 15px 15px 35px black;
+}
+
+.totaltext
+{
+    width:600px;
+    height: 60px;
+    left: 700px;
+    top: 500px;
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size: 50px;
+}
+
+.admin_modify
+{
+	background-color: #9fff80;
+	padding-top: 1px;
+	margin-left:100px;
+	width:865px;
+	height: 450px;
+	border-radius: 15px;
+}
+
+.create_weed
+{
+	margin-left: 10px;
+	background-color: grey;
+	width: 410px;
+	height: 195px;
+	border-radius: 15px;
+}
+
+.modif_weed
+{
+	margin-left: 10px;
+	background-color: grey;
+	width: 410px;
+	height: 90px;
+	border-radius: 15px;
+}
+
+.delete_weed
+{
+	margin-left: 10px;
+	background-color: grey;
+	width: 410px;
+	height: 90px;
+	border-radius: 15px;
+}
+
+.create_account
+{
+	position:absolute;
+	left: 550px;
+	top: 328px;
+	background-color: grey;
+	width: 410px;
+	height: 195px;
+	border-radius: 15px;
+}
+
+.delete_account
+{
+	position:absolute;
+	left: 550px;
+	top: 653px;
+	background-color: grey;
+	width: 410px;
+	height: 90px;
+	border-radius: 15px;
+}
+
+.admin_title
+{
+	padding-top: 12px;
+	text-align: center;
+}
+
+.admin_title_account
+{
+	margin-top: 12px;
+	text-align: center;
+}
+
+#button_ajout
+{
+	width: 200px;
+	height: 50px;
+	margin-top: 5px;
+	margin-left:110px;
+}
+
+#change_category
+{
+	position:absolute;
+	top:10px;
+	left:90px;
+}
+
+.text_admin
+{
+	width:400px;
+	height: 30px;
+}
+
+.buynow
+{
+	font-size: 30px;
+	border-radius: 20px;
+	position:absolute;
+	left: 20px;
+	bottom: 50px;
+	height: 40px;
+	width:500px;
+	box-shadow: 5px 5px 70px black;
+}
+
+.addbutton
+{
+	position:absolute;
+	right:20px;
+	bottom:40px;
+}
+
+.button_delete
+{
+	margin-top:5px;
+	color:red;
+}
+
+.feuille
+{
+	width:200px;
+	height: 200px;
+}
+
+.category
+{
+	position:absolute;
+	top:10px;
+	left:10px;
+}
